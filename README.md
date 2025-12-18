@@ -1,4 +1,4 @@
 # research2
 
 
-[네이버](https://www.naver.com){: target='_blank'}
+[네이버](https://www.naver.com){:target='_blank'}
